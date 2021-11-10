@@ -22,6 +22,10 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
+        label: Learn More
+        url: /
+        style: secondary
+      - type: Button
         label: מה קורה
         url: /
         style: primary
@@ -29,10 +33,6 @@ sections:
         showIcon: true
         icon: linkedin
         iconPosition: left
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
     feature:
       type: ImageBlock
       url: /images/Screen Shot 2021-10-26 at 8.33.31 PM.png
