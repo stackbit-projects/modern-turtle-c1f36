@@ -28,6 +28,7 @@ sections:
         elementId: hero-main-button
         showIcon: true
         icon: linkedin
+        iconPosition: left
       - type: Button
         label: Learn More
         url: /
