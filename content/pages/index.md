@@ -35,6 +35,7 @@ sections:
       url: /images/Screen Shot 2021-10-26 at 8.33.31 PM.png
       altText: Hero section image
       elementId: werwer
+      caption: werwerwerwer
     styles:
       self:
         height: screen
