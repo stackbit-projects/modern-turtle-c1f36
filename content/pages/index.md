@@ -54,7 +54,7 @@ sections:
         flexDirection: row-reverse
         borderRadius: xx-large
         borderWidth: 8
-        borderColor: border-neutral
+        borderColor: border-primary
         borderStyle: solid
       title:
         fontWeight: 700
