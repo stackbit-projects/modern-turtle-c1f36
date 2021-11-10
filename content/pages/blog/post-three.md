@@ -8,7 +8,7 @@ excerpt: >-
   it for you to use.
 featuredImage:
   type: ImageBlock
-  url: /images/Pile of fish.png
+  url: /images/Fish dinner.png
   altText: Post Image
 bottomSections:
   - type: CtaSection
