@@ -13,7 +13,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: We do fishing differently.
+    title: 'We do fishing differently, again'
     subtitle: Fresh. Better. Faster
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
@@ -100,7 +100,9 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
       actions:
         justifyContent: center
     type: FeaturedPostsSection
