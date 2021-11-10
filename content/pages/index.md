@@ -115,6 +115,40 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPostsSection
+  - elementId: ''
+    colors: colors-b
+    backgroundWidth: full
+    quote: |+
+      # די מגניב בסה״כ
+
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    backgroundImage:
+      url: ''
+      altText: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-36
+          - pb-36
+        alignItems: center
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    type: QuoteSection
   - elementId: contact-form
     colors: colors-f
     backgroundWidth: full
@@ -174,38 +208,4 @@ sections:
         textAlign: left
     action: /.netlify/functions/submission_created
     type: ContactSection
-  - elementId: ''
-    colors: colors-b
-    backgroundWidth: full
-    quote: |+
-      # די מגניב בסה״כ
-
-    name: Johnna Doe
-    title: Product Marketing Manager at Acme
-    backgroundImage:
-      url: ''
-      altText: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-36
-          - pb-36
-        alignItems: center
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-    type: QuoteSection
 ---
