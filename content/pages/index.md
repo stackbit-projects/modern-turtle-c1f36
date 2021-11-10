@@ -3,78 +3,6 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-a
-    backgroundWidth: full
-    backgroundImage:
-      altText: null
-      caption: null
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    title: 'We do fishing differently, again'
-    subtitle: "Fresh. Better. Faster. Jumpier. Happier. שלום\_❤️❤️❤️❤️❤️❤️"
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
-      - type: Button
-        label: מה קורה
-        url: /
-        style: primary
-        elementId: hero-main-button
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-    feature:
-      type: ImageBlock
-      url: /images/Screen Shot 2021-10-26 at 8.33.31 PM.png
-      altText: Hero section image werwerwerwer
-      elementId: werwer
-      caption: werwerwerwer
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-        borderRadius: xx-large
-        borderWidth: 8
-        borderColor: border-primary
-        borderStyle: solid
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-        margin:
-          - mt-12
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-        margin:
-          - mt-8
-          - mb-8
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
@@ -149,6 +77,78 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
+  - elementId: ''
+    colors: colors-a
+    backgroundWidth: full
+    backgroundImage:
+      altText: null
+      caption: null
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    title: 'We do fishing differently, again'
+    subtitle: "Fresh. Better. Faster. Jumpier. Happier. שלום\_❤️❤️❤️❤️❤️❤️"
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions:
+      - type: Button
+        label: Learn More
+        url: /
+        style: secondary
+      - type: Button
+        label: מה קורה
+        url: /
+        style: primary
+        elementId: hero-main-button
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+    feature:
+      type: ImageBlock
+      url: /images/Screen Shot 2021-10-26 at 8.33.31 PM.png
+      altText: Hero section image werwerwerwer
+      elementId: werwer
+      caption: werwerwerwer
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+        borderRadius: xx-large
+        borderWidth: 8
+        borderColor: border-primary
+        borderStyle: solid
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mt-12
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mt-8
+          - mb-8
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: contact-form
     colors: colors-f
     backgroundWidth: full
