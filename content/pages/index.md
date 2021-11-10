@@ -53,7 +53,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
         borderRadius: xx-large
-        borderWidth: 6
+        borderWidth: 8
       title:
         fontWeight: 700
         fontStyle: normal
