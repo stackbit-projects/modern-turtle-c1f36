@@ -55,6 +55,7 @@ sections:
         borderRadius: xx-large
         borderWidth: 8
         borderColor: border-neutral
+        borderStyle: dashed
       title:
         fontWeight: 700
         fontStyle: normal
