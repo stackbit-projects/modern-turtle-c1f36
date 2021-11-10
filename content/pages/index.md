@@ -26,6 +26,7 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
+        showIcon: true
       - type: Button
         label: Learn More
         url: /
