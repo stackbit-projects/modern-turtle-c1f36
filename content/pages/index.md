@@ -52,7 +52,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderRadius: none
+        borderRadius: xx-large
       title:
         fontWeight: 700
         fontStyle: normal
