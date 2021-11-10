@@ -32,7 +32,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/hero-image.png
+      url: /images/Screen Shot 2021-10-26 at 8.33.31 PM.png
       altText: Hero section image
     styles:
       self:
